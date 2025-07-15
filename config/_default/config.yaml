@@ -7,7 +7,16 @@ params:
     active: true
   logo:
     header: ''
-    footer: ''
+    footer: '/assets/images/logo.png'
+  home:
+    head:
+      title: site
+  share_links:
+    enabled: false
+  projects:
+    index:
+      options:
+        year: true
   home:
     head:
       title: site
