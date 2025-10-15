@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Revues
-  target: "/projets/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
