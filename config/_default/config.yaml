@@ -18,6 +18,3 @@ params:
       layout: list
       options:
         year: true
-  home:
-    head:
-      title: site
